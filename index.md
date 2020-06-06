@@ -1,6 +1,6 @@
 
-
-# Nicolas Cruz, Javier-Ruiz del Solar
+# FeatureGan
+## Nicolas Cruz, Javier-Ruiz del Solar
 
 ## University of Chile
 ### Code available at:
