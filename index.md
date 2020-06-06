@@ -7,7 +7,7 @@
 
 [pytorch code](https://github.com/nicolasCruzW21/FeatureGan-pytorch)
 
-<img align="center" src="https://github.com/nicolasCruzW21/FeatureGan/blob/master/FeatureGan/page2.png">
+<img align="center" src="https://github.com/nicolasCruzW21/FeatureGan/blob/master/FeatureGan/page2.png?raw=true">
 
 ![alt text][logo]
 
