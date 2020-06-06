@@ -1,8 +1,11 @@
-## FeatureGan
 
-Nicolas Cruz, Javier-Ruiz del Solar
+# FeatureGan
 
-University of Chile
+## Nicolas Cruz, Javier-Ruiz del Solar
+
+### University of Chile
+
+[pytorch code](https://github.com/nicolasCruzW21/FeatureGan-pytorch)
 
 <img align="center" src="/FeatureGan/page.jpg">
 
