@@ -4,7 +4,7 @@ Nicolas Cruz, Javier-Ruiz del Solar
 
 University of Chile
 
-<img src="/FeatureGan/page.jpg">
+<img align="center" src="/FeatureGan/page.jpg">
 
 ### Abstract
 
@@ -13,13 +13,15 @@ Image-to-image  translation  is  a relevant problem with many applications in co
 
 
 ### Horse to elephant
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=9CAol4XoN4k
-" target="_blank"><img src="http://img.youtube.com/vi/9CAol4XoN4k/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<p align="center">
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=9CAol4XoN4k
+  " target="_blank"><img src="http://img.youtube.com/vi/9CAol4XoN4k/0.jpg" 
+  alt="IMAGE ALT TEXT HERE" width="480" height="320" border="10" /></a>
+</p>
 
 ### Horse to zebra
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=KoY6hfojSQM
-" target="_blank"><img src="http://img.youtube.com/vi/KoY6hfojSQM/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
+<p align="center">
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=KoY6hfojSQM
+  " target="_blank"><img src="http://img.youtube.com/vi/KoY6hfojSQM/0.jpg" 
+  alt="IMAGE ALT TEXT HERE" width="480" height="320" border="10" /></a>
+</p>
